@@ -1,5 +1,5 @@
-# Opengl-Learning
-opengl 个人学习 参考教程 https://learnopengl-cn.github.io/ 
+# Opengl-MeshViewer
+opengl 个人学习
 
 Light
 
